@@ -706,5 +706,47 @@
         "Nome": "Christal Bezerra",
         "Ano de Nascimento": "2004",
         "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Sophia Fernandes-2008-ECP-SP",
+        "Nome": "Sophia Fernandes",
+        "Ano de Nascimento": "2008",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Andreza Lima-2007-GNU-RS",
+        "Nome": "Andreza Lima",
+        "Ano de Nascimento": "2007",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Isabella Gardziulis-2008-ECP-SP",
+        "Nome": "Isabella Gardziulis",
+        "Ano de Nascimento": "2008",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Mirella Santos-2006-MTC-MG",
+        "Nome": "Mirella Santos",
+        "Ano de Nascimento": "2006",
+        "Clube": "MTC-MG"
+    },
+    {
+        "ID": "Milleny Souza-1999-GNU-RS",
+        "Nome": "Milleny Souza",
+        "Ano de Nascimento": "1999",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Gleyce Rodrigues-1996-OSASCO-SP",
+        "Nome": "Gleyce Rodrigues",
+        "Ano de Nascimento": "1996",
+        "Clube": "OSASCO-SP"
+    },
+    {
+        "ID": "Marcela Meireles-2005-FFC-RJ",
+        "Nome": "Marcela Meireles",
+        "Ano de Nascimento": "2005",
+        "Clube": "FFC-RJ"
     }
 ]
