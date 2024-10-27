@@ -1,57 +1,21 @@
 [
     {
-        "ID": "Marcela Meireles-2005-FFC-RJ",
-        "Nome": "Marcela Meireles",
-        "Ano de Nascimento": "2005",
-        "Clube": "FFC-RJ"
-    },
-    {
         "ID": "Gabriela Barbosa-2007-ECP-SP",
         "Nome": "Gabriela Barbosa",
         "Ano de Nascimento": "2007",
         "Clube": "ECP-SP"
     },
     {
-        "ID": "Julia Soares-2005-CEGIN-PR",
-        "Nome": "Julia Soares",
-        "Ano de Nascimento": "2005",
-        "Clube": "CEGIN-PR"
-    },
-    {
-        "ID": "Camille Fonseca-2005-SESI-SP",
-        "Nome": "Camille Fonseca",
-        "Ano de Nascimento": "2005",
-        "Clube": "SESI-SP"
-    },
-    {
-        "ID": "Lorrane Oliveira-1998-CRF-RJ",
-        "Nome": "Lorrane Oliveira",
-        "Ano de Nascimento": "1998",
-        "Clube": "CRF-RJ"
-    },
-    {
-        "ID": "Gleyce Rodrigues-1996-OSASCO-SP",
-        "Nome": "Gleyce Rodrigues",
-        "Ano de Nascimento": "1996",
-        "Clube": "OSASCO-SP"
-    },
-    {
-        "ID": "Christal Bezerra-2004-ECP-SP",
-        "Nome": "Christal Bezerra",
-        "Ano de Nascimento": "2004",
-        "Clube": "ECP-SP"
-    },
-    {
-        "ID": "Beatriz Silva-2003-OSASCO-SP",
-        "Nome": "Beatriz Silva",
-        "Ano de Nascimento": "2003",
-        "Clube": "OSASCO-SP"
-    },
-    {
         "ID": "Rafaela Oliva-2004-GNU-RS",
         "Nome": "Rafaela Oliva",
         "Ano de Nascimento": "2004",
         "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Julia Soares-2005-CEGIN-PR",
+        "Nome": "Julia Soares",
+        "Ano de Nascimento": "2005",
+        "Clube": "CEGIN-PR"
     },
     {
         "ID": "Julia Silva-2007-ECP-SP",
@@ -70,5 +34,17 @@
         "Nome": "Josiany Silva",
         "Ano de Nascimento": "2007",
         "Clube": "CEGIN-PR"
+    },
+    {
+        "ID": "Beatriz Silva-2003-OSASCO-SP",
+        "Nome": "Beatriz Silva",
+        "Ano de Nascimento": "2003",
+        "Clube": "OSASCO-SP"
+    },
+    {
+        "ID": "Camille Fonseca-2005-SESI-SP",
+        "Nome": "Camille Fonseca",
+        "Ano de Nascimento": "2005",
+        "Clube": "SESI-SP"
     }
 ]
