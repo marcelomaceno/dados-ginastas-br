@@ -40,5 +40,23 @@
         "Nome": "Larissa Machado",
         "Ano de Nascimento": "2009",
         "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Nicole Campos-2010-CRF-RJ",
+        "Nome": "Nicole Campos",
+        "Ano de Nascimento": "2010",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Kauany Aquino-2010-ECP-SP",
+        "Nome": "Kauany Aquino",
+        "Ano de Nascimento": "2010",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Francine Oliveira-2010-GNU-RS",
+        "Nome": "Francine Oliveira",
+        "Ano de Nascimento": "2010",
+        "Clube": "GNU-RS"
     }
 ]
