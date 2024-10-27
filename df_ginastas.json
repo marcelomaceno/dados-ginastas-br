@@ -46,5 +46,29 @@
         "Nome": "Carolyne Pedro",
         "Ano de Nascimento": "2000",
         "Clube": "CEGIN-PR"
+    },
+    {
+        "ID": "Marcela Meireles-2005-FFC-RJ",
+        "Nome": "Marcela Meireles",
+        "Ano de Nascimento": "2005",
+        "Clube": "FFC-RJ"
+    },
+    {
+        "ID": "Julia Soares-2005-CEGIN-PR",
+        "Nome": "Julia Soares",
+        "Ano de Nascimento": "2005",
+        "Clube": "CEGIN-PR"
+    },
+    {
+        "ID": "Camille Fonseca-2005-SESI-SP",
+        "Nome": "Camille Fonseca",
+        "Ano de Nascimento": "2005",
+        "Clube": "SESI-SP"
+    },
+    {
+        "ID": "Gleyce Rodrigues-1996-OSASCO-SP",
+        "Nome": "Gleyce Rodrigues",
+        "Ano de Nascimento": "1996",
+        "Clube": "OSASCO-SP"
     }
 ]
