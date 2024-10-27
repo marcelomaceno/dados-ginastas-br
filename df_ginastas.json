@@ -46,5 +46,29 @@
         "Nome": "Beatriz Silva",
         "Ano de Nascimento": "2003",
         "Clube": "OSASCO-SP"
+    },
+    {
+        "ID": "Josiany Silva-2007-CEGIN-PR",
+        "Nome": "Josiany Silva",
+        "Ano de Nascimento": "2007",
+        "Clube": "CEGIN-PR"
+    },
+    {
+        "ID": "Jade Barbosa-1991-CRF-RJ",
+        "Nome": "Jade Barbosa",
+        "Ano de Nascimento": "1991",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Flavia Saraiva-1999-CRF-RJ",
+        "Nome": "Flavia Saraiva",
+        "Ano de Nascimento": "1999",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Carolyne Pedro-2000-CEGIN-PR",
+        "Nome": "Carolyne Pedro",
+        "Ano de Nascimento": "2000",
+        "Clube": "CEGIN-PR"
     }
 ]
