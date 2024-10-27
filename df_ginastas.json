@@ -46,5 +46,29 @@
         "Nome": "Camille Fonseca",
         "Ano de Nascimento": "2005",
         "Clube": "SESI-SP"
+    },
+    {
+        "ID": "Marcela Meireles-2005-FFC-RJ",
+        "Nome": "Marcela Meireles",
+        "Ano de Nascimento": "2005",
+        "Clube": "FFC-RJ"
+    },
+    {
+        "ID": "Lorrane Oliveira-1998-CRF-RJ",
+        "Nome": "Lorrane Oliveira",
+        "Ano de Nascimento": "1998",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Gleyce Rodrigues-1996-OSASCO-SP",
+        "Nome": "Gleyce Rodrigues",
+        "Ano de Nascimento": "1996",
+        "Clube": "OSASCO-SP"
+    },
+    {
+        "ID": "Christal Bezerra-2004-ECP-SP",
+        "Nome": "Christal Bezerra",
+        "Ano de Nascimento": "2004",
+        "Clube": "ECP-SP"
     }
 ]
