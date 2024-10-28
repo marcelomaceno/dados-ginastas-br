@@ -328,5 +328,89 @@
         "Nome": "Flavia Saraiva",
         "Ano de Nascimento": "1999",
         "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Jady Correa-2004-GAP-PR",
+        "Nome": "Jady Correa",
+        "Ano de Nascimento": "2004",
+        "Clube": "GAP-PR"
+    },
+    {
+        "ID": "Ana Livia Burgarim-2007-SESI-SP",
+        "Nome": "Ana Livia Burgarim",
+        "Ano de Nascimento": "2007",
+        "Clube": "SESI-SP"
+    },
+    {
+        "ID": "Maria Eduarda Ribeiro-2009-JURERE-SC",
+        "Nome": "Maria Eduarda Ribeiro",
+        "Ano de Nascimento": "2009",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Amanda Xavier-2009-JURERE-SC",
+        "Nome": "Amanda Xavier",
+        "Ano de Nascimento": "2009",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Bianca Barbosa-2008-JURERE-SC",
+        "Nome": "Bianca Barbosa",
+        "Ano de Nascimento": "2008",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Vitoria Dias-2007-JURERE-SC",
+        "Nome": "Vitoria Dias",
+        "Ano de Nascimento": "2007",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Isabel Ferreira-2006-JURERE-SC",
+        "Nome": "Isabel Ferreira",
+        "Ano de Nascimento": "2006",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Raissa Barros-2003-CGEM-PE",
+        "Nome": "Raissa Barros",
+        "Ano de Nascimento": "2003",
+        "Clube": "CGEM-PE"
+    },
+    {
+        "ID": "Juliana Silva-2007-ACRORIT-SP",
+        "Nome": "Juliana Silva",
+        "Ano de Nascimento": "2007",
+        "Clube": "ACRORIT-SP"
+    },
+    {
+        "ID": "Carolina Oliveira-2011-OSASCO-SP",
+        "Nome": "Carolina Oliveira",
+        "Ano de Nascimento": "2011",
+        "Clube": "OSASCO-SP"
+    },
+    {
+        "ID": "Manuella Souza-2011-OSASCO-SP",
+        "Nome": "Manuella Souza",
+        "Ano de Nascimento": "2011",
+        "Clube": "OSASCO-SP"
+    },
+    {
+        "ID": "Francine Oliveira-2010-GNU-RS",
+        "Nome": "Francine Oliveira",
+        "Ano de Nascimento": "2010",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Isabel Ramos-2010-CRF-RJ",
+        "Nome": "Isabel Ramos",
+        "Ano de Nascimento": "2010",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Gabriela Vieira-2009-CRF-RJ",
+        "Nome": "Gabriela Vieira",
+        "Ano de Nascimento": "2009",
+        "Clube": "CRF-RJ"
     }
 ]
