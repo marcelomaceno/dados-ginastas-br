@@ -316,5 +316,17 @@
         "Nome": "Flavia Saraiva",
         "Ano de Nascimento": "1999",
         "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Francine Oliveira-2010-GNU-RS",
+        "Nome": "Francine Oliveira",
+        "Ano de Nascimento": "2010",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Isabel Ramos-2010-CRF-RJ",
+        "Nome": "Isabel Ramos",
+        "Ano de Nascimento": "2010",
+        "Clube": "CRF-RJ"
     }
 ]
