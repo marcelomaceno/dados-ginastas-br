@@ -34,8 +34,8 @@
         "Aparelho": "VT1",
         "Nota": "12.333",
         "Nota D": "4.2",
-        "Nota E": "8.900",
-        "Nota Pen": "0",
+        "Nota E": "8.433",
+        "Nota Pen": "-0.3",
         "Nota Bônus": "0"
     },
     {
@@ -46,8 +46,8 @@
         "Etapa": "EF",
         "Aparelho": "VT2",
         "Nota": "12.433",
-        "Nota D": "4.4",
-        "Nota E": "8.867",
+        "Nota D": "3.6",
+        "Nota E": "8.633",
         "Nota Pen": "0",
         "Nota Bônus": "0.2"
     },
@@ -59,8 +59,8 @@
         "Etapa": "EF",
         "Aparelho": "VT1",
         "Nota": "13.333",
-        "Nota D": "4.2",
-        "Nota E": "8.900",
+        "Nota D": "5.0",
+        "Nota E": "8.333",
         "Nota Pen": "0",
         "Nota Bônus": "0"
     },
@@ -72,9 +72,9 @@
         "Etapa": "EF",
         "Aparelho": "VT2",
         "Nota": "12.533",
-        "Nota D": "4.4",
-        "Nota E": "8.867",
-        "Nota Pen": "0",
+        "Nota D": "3.8",
+        "Nota E": "8.633",
+        "Nota Pen": "-0.1",
         "Nota Bônus": "0.2"
     },
     {
@@ -86,7 +86,7 @@
         "Aparelho": "VT1",
         "Nota": "12.800",
         "Nota D": "4.2",
-        "Nota E": "8.900",
+        "Nota E": "8.600",
         "Nota Pen": "0",
         "Nota Bônus": "0"
     },
@@ -98,8 +98,8 @@
         "Etapa": "EF",
         "Aparelho": "VT2",
         "Nota": "12.067",
-        "Nota D": "4.4",
-        "Nota E": "8.867",
+        "Nota D": "3.4",
+        "Nota E": "8.467",
         "Nota Pen": "0",
         "Nota Bônus": "0.2"
     },
@@ -112,7 +112,7 @@
         "Aparelho": "VT1",
         "Nota": "12.900",
         "Nota D": "4.2",
-        "Nota E": "8.900",
+        "Nota E": "8.700",
         "Nota Pen": "0",
         "Nota Bônus": "0"
     },
@@ -124,9 +124,9 @@
         "Etapa": "EF",
         "Aparelho": "VT2",
         "Nota": "12.933",
-        "Nota D": "4.4",
-        "Nota E": "8.867",
+        "Nota D": "3.8",
+        "Nota E": "8.733",
         "Nota Pen": "0",
-        "Nota Bônus": "0.2"
+        "Nota Bônus": "0.4"
     }
 ]
