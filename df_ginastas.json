@@ -1,169 +1,13 @@
 [
     {
-        "ID": "Maria Eduarda Ribeiro-2009-JURERÊ-SC",
-        "Nome": "Maria Eduarda Ribeiro",
-        "Ano de Nascimento": "2009",
-        "Clube": "JURERÊ-SC"
-    },
-    {
-        "ID": "Jady Correa-2004-IGAP-PR",
-        "Nome": "Jady Correa",
-        "Ano de Nascimento": "2004",
-        "Clube": "IGAP-PR"
-    },
-    {
-        "ID": "Sophia Cruz-2011-CRF-RJ",
-        "Nome": "Sophia Cruz",
-        "Ano de Nascimento": "2011",
-        "Clube": "CRF-RJ"
-    },
-    {
-        "ID": "Julia Coutinho-2009-CRF-RJ",
-        "Nome": "Julia Coutinho",
-        "Ano de Nascimento": "2009",
-        "Clube": "CRF-RJ"
-    },
-    {
-        "ID": "Nicole Campos-2010-CRF-RJ",
-        "Nome": "Nicole Campos",
-        "Ano de Nascimento": "2010",
-        "Clube": "CRF-RJ"
-    },
-    {
-        "ID": "Raini Ferreira-2008-MSGA-GO",
-        "Nome": "Raini Ferreira",
-        "Ano de Nascimento": "2008",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Rafaela Hoffmann-2007-MSGA-GO",
-        "Nome": "Rafaela Hoffmann",
-        "Ano de Nascimento": "2007",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Maria Clara Ribeiro-2011-MSGA-GO",
-        "Nome": "Maria Clara Ribeiro",
-        "Ano de Nascimento": "2011",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Carolina Carrijo-2006-MSGA-GO",
-        "Nome": "Carolina Carrijo",
-        "Ano de Nascimento": "2006",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Krishna Hungria-2011-MSGA-GO",
-        "Nome": "Krishna Hungria",
-        "Ano de Nascimento": "2011",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Lara Vilarinho-2010-MSGA-GO",
-        "Nome": "Lara Vilarinho",
-        "Ano de Nascimento": "2010",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Vitoria Custodio-2001-MSGA-GO",
-        "Nome": "Vitoria Custodio",
-        "Ano de Nascimento": "2001",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Thauanny Santos-2010-MSGA-GO",
-        "Nome": "Thauanny Santos",
-        "Ano de Nascimento": "2010",
-        "Clube": "MSGA-GO"
-    },
-    {
-        "ID": "Beatriz Silva-2003-OSASCO-SP",
-        "Nome": "Beatriz Silva",
-        "Ano de Nascimento": "2003",
-        "Clube": "OSASCO-SP"
-    },
-    {
         "ID": "Carolyne Pedro-2000-CEGIN-PR",
         "Nome": "Carolyne Pedro",
         "Ano de Nascimento": "2000",
         "Clube": "CEGIN-PR"
     },
     {
-        "ID": "Julia Soares-2005-CEGIN-PR",
-        "Nome": "Julia Soares",
-        "Ano de Nascimento": "2005",
-        "Clube": "CEGIN-PR"
-    },
-    {
-        "ID": "Josiany Silva-2007-CEGIN-PR",
-        "Nome": "Josiany Silva",
-        "Ano de Nascimento": "2007",
-        "Clube": "CEGIN-PR"
-    },
-    {
-        "ID": "Giovana Martins-2009-CEGIN-PR",
-        "Nome": "Giovana Martins",
-        "Ano de Nascimento": "2009",
-        "Clube": "CEGIN-PR"
-    },
-    {
-        "ID": "Hadassa Martins-2010-SESI-SP",
-        "Nome": "Hadassa Martins",
-        "Ano de Nascimento": "2010",
-        "Clube": "SESI-SP"
-    },
-    {
-        "ID": "Julia Godoi-2005-SESI-SP",
-        "Nome": "Julia Godoi",
-        "Ano de Nascimento": "2005",
-        "Clube": "SESI-SP"
-    },
-    {
-        "ID": "Camille Fonseca-2005-SESI-SP",
-        "Nome": "Camille Fonseca",
-        "Ano de Nascimento": "2005",
-        "Clube": "SESI-SP"
-    },
-    {
-        "ID": "Rebeca Procopio-2009-SESI-SP",
-        "Nome": "Rebeca Procopio",
-        "Ano de Nascimento": "2009",
-        "Clube": "SESI-SP"
-    },
-    {
-        "ID": "Heloysa Silva-2010-SESI-SP",
-        "Nome": "Heloysa Silva",
-        "Ano de Nascimento": "2010",
-        "Clube": "SESI-SP"
-    },
-    {
-        "ID": "Giulia Nascimento-2010-SESI-SP",
-        "Nome": "Giulia Nascimento",
-        "Ano de Nascimento": "2010",
-        "Clube": "SESI-SP"
-    },
-    {
-        "ID": "Rafaela Oliva-2004-GNU-RS",
-        "Nome": "Rafaela Oliva",
-        "Ano de Nascimento": "2004",
-        "Clube": "GNU-RS"
-    },
-    {
         "ID": "Maria Heloisa Moreno-2008-GNU-RS",
         "Nome": "Maria Heloisa Moreno",
-        "Ano de Nascimento": "2008",
-        "Clube": "GNU-RS"
-    },
-    {
-        "ID": "Andreza Lima-2007-GNU-RS",
-        "Nome": "Andreza Lima",
-        "Ano de Nascimento": "2007",
-        "Clube": "GNU-RS"
-    },
-    {
-        "ID": "Luiza Abel-2008-GNU-RS",
-        "Nome": "Luiza Abel",
         "Ano de Nascimento": "2008",
         "Clube": "GNU-RS"
     },
@@ -180,15 +24,21 @@
         "Clube": "CRF-RJ"
     },
     {
+        "ID": "Josiany Silva-2007-CEGIN-PR",
+        "Nome": "Josiany Silva",
+        "Ano de Nascimento": "2007",
+        "Clube": "CEGIN-PR"
+    },
+    {
+        "ID": "Luiza Abel-2008-GNU-RS",
+        "Nome": "Luiza Abel",
+        "Ano de Nascimento": "2008",
+        "Clube": "GNU-RS"
+    },
+    {
         "ID": "Rebeca Andrade-1999-CRF-RJ",
         "Nome": "Rebeca Andrade",
         "Ano de Nascimento": "1999",
-        "Clube": "CRF-RJ"
-    },
-    {
-        "ID": "Larissa Machado-2009-CRF-RJ",
-        "Nome": "Larissa Machado",
-        "Ano de Nascimento": "2009",
         "Clube": "CRF-RJ"
     },
     {
@@ -198,28 +48,40 @@
         "Clube": "ECP-SP"
     },
     {
-        "ID": "Sophia Santos-2011-ECP-SP",
-        "Nome": "Sophia Santos",
-        "Ano de Nascimento": "2011",
-        "Clube": "ECP-SP"
+        "ID": "Nicole Campos-2010-CRF-RJ",
+        "Nome": "Nicole Campos",
+        "Ano de Nascimento": "2010",
+        "Clube": "CRF-RJ"
     },
     {
-        "ID": "Izabella Machado-2011-ECP-SP",
-        "Nome": "Izabella Machado",
+        "ID": "Maria Clara Ribeiro-2011-MSGA-GO",
+        "Nome": "Maria Clara Ribeiro",
         "Ano de Nascimento": "2011",
-        "Clube": "ECP-SP"
+        "Clube": "MSGA-GO"
     },
     {
-        "ID": "Julia Silva-2007-ECP-SP",
-        "Nome": "Julia Silva",
+        "ID": "Rafaela Hoffmann-2007-MSGA-GO",
+        "Nome": "Rafaela Hoffmann",
         "Ano de Nascimento": "2007",
-        "Clube": "ECP-SP"
+        "Clube": "MSGA-GO"
     },
     {
-        "ID": "Beatriz Lima-2002-ECP-SP",
-        "Nome": "Beatriz Lima",
-        "Ano de Nascimento": "2002",
-        "Clube": "ECP-SP"
+        "ID": "Raini Ferreira-2008-MSGA-GO",
+        "Nome": "Raini Ferreira",
+        "Ano de Nascimento": "2008",
+        "Clube": "MSGA-GO"
+    },
+    {
+        "ID": "Krishna Hungria-2011-MSGA-GO",
+        "Nome": "Krishna Hungria",
+        "Ano de Nascimento": "2011",
+        "Clube": "MSGA-GO"
+    },
+    {
+        "ID": "Carolina Carrijo-2006-MSGA-GO",
+        "Nome": "Carolina Carrijo",
+        "Ano de Nascimento": "2006",
+        "Clube": "MSGA-GO"
     },
     {
         "ID": "Barbara Wiggers-2005-ADIEE-SC",
@@ -240,10 +102,58 @@
         "Clube": "ADIEE-SC"
     },
     {
+        "ID": "Vitoria Custodio-2001-MSGA-GO",
+        "Nome": "Vitoria Custodio",
+        "Ano de Nascimento": "2001",
+        "Clube": "MSGA-GO"
+    },
+    {
+        "ID": "Thauanny Santos-2010-MSGA-GO",
+        "Nome": "Thauanny Santos",
+        "Ano de Nascimento": "2010",
+        "Clube": "MSGA-GO"
+    },
+    {
+        "ID": "Jady Correa-2004-IGAP-PR",
+        "Nome": "Jady Correa",
+        "Ano de Nascimento": "2004",
+        "Clube": "IGAP-PR"
+    },
+    {
+        "ID": "Camille Fonseca-2005-SESI-SP",
+        "Nome": "Camille Fonseca",
+        "Ano de Nascimento": "2005",
+        "Clube": "SESI-SP"
+    },
+    {
+        "ID": "Rebeca Procopio-2009-SESI-SP",
+        "Nome": "Rebeca Procopio",
+        "Ano de Nascimento": "2009",
+        "Clube": "SESI-SP"
+    },
+    {
         "ID": "Clara Stecca-2008-GNU-RS",
         "Nome": "Clara Stecca",
         "Ano de Nascimento": "2008",
         "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Rafaela Oliva-2004-GNU-RS",
+        "Nome": "Rafaela Oliva",
+        "Ano de Nascimento": "2004",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Larissa Machado-2009-CRF-RJ",
+        "Nome": "Larissa Machado",
+        "Ano de Nascimento": "2009",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Beatriz Lima-2002-ECP-SP",
+        "Nome": "Beatriz Lima",
+        "Ano de Nascimento": "2002",
+        "Clube": "ECP-SP"
     },
     {
         "ID": "Sophia Weisberg-2009-ECP-SP",
@@ -256,6 +166,12 @@
         "Nome": "Kauany Aquino",
         "Ano de Nascimento": "2010",
         "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Maria Eduarda Ribeiro-2009-JURERÊ-SC",
+        "Nome": "Maria Eduarda Ribeiro",
+        "Ano de Nascimento": "2009",
+        "Clube": "JURERÊ-SC"
     },
     {
         "ID": "Vitoria Dias-2007-JURERÊ-SC",
@@ -276,6 +192,18 @@
         "Clube": "CRF-RJ"
     },
     {
+        "ID": "Sophia Cruz-2011-CRF-RJ",
+        "Nome": "Sophia Cruz",
+        "Ano de Nascimento": "2011",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Julia Coutinho-2009-CRF-RJ",
+        "Nome": "Julia Coutinho",
+        "Ano de Nascimento": "2009",
+        "Clube": "CRF-RJ"
+    },
+    {
         "ID": "Erika Oliveira-2011-CRF-RJ",
         "Nome": "Erika Oliveira",
         "Ano de Nascimento": "2011",
@@ -288,6 +216,18 @@
         "Clube": "CRF-RJ"
     },
     {
+        "ID": "Giovana Martins-2009-CEGIN-PR",
+        "Nome": "Giovana Martins",
+        "Ano de Nascimento": "2009",
+        "Clube": "CEGIN-PR"
+    },
+    {
+        "ID": "Julia Soares-2005-CEGIN-PR",
+        "Nome": "Julia Soares",
+        "Ano de Nascimento": "2005",
+        "Clube": "CEGIN-PR"
+    },
+    {
         "ID": "Alana Oliveira-2007-CEGIN-PR",
         "Nome": "Alana Oliveira",
         "Ano de Nascimento": "2007",
@@ -298,6 +238,36 @@
         "Nome": "Luiza Andrade",
         "Ano de Nascimento": "2009",
         "Clube": "AGAJO-SC"
+    },
+    {
+        "ID": "Hadassa Martins-2010-SESI-SP",
+        "Nome": "Hadassa Martins",
+        "Ano de Nascimento": "2010",
+        "Clube": "SESI-SP"
+    },
+    {
+        "ID": "Giulia Nascimento-2010-SESI-SP",
+        "Nome": "Giulia Nascimento",
+        "Ano de Nascimento": "2010",
+        "Clube": "SESI-SP"
+    },
+    {
+        "ID": "Heloysa Silva-2010-SESI-SP",
+        "Nome": "Heloysa Silva",
+        "Ano de Nascimento": "2010",
+        "Clube": "SESI-SP"
+    },
+    {
+        "ID": "Andreza Lima-2007-GNU-RS",
+        "Nome": "Andreza Lima",
+        "Ano de Nascimento": "2007",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Beatriz Silva-2003-OSASCO-SP",
+        "Nome": "Beatriz Silva",
+        "Ano de Nascimento": "2003",
+        "Clube": "OSASCO-SP"
     },
     {
         "ID": "Isabel Ferreira-2006-JURERÊ-SC",
@@ -316,6 +286,24 @@
         "Nome": "Maria Eduarda Pinto",
         "Ano de Nascimento": "2009",
         "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Izabella Machado-2011-ECP-SP",
+        "Nome": "Izabella Machado",
+        "Ano de Nascimento": "2011",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Julia Silva-2007-ECP-SP",
+        "Nome": "Julia Silva",
+        "Ano de Nascimento": "2007",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Julia Godoi-2005-SESI-SP",
+        "Nome": "Julia Godoi",
+        "Ano de Nascimento": "2005",
+        "Clube": "SESI-SP"
     },
     {
         "ID": "Ana Luiza Lima-2005-MTC-MG",
