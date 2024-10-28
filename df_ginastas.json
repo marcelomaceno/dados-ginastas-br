@@ -412,5 +412,179 @@
         "Nome": "Gabriela Vieira",
         "Ano de Nascimento": "2009",
         "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Ana Leticia Souto-2011-CCRN-SP",
+        "Nome": "Ana Leticia Souto",
+        "Ano de Nascimento": "2011",
+        "Clube": "CCRN-SP"
+    },
+    {
+        "ID": "Carolina Nalepinski-2011-SOGIPA-RS",
+        "Nome": "Carolina Nalepinski",
+        "Ano de Nascimento": "2011",
+        "Clube": "SOGIPA-RS"
+    },
+    {
+        "ID": "Maria Sofia Alberto-2011-KCGA-DF",
+        "Nome": "Maria Sofia Alberto",
+        "Ano de Nascimento": "2011",
+        "Clube": "KCGA-DF"
+    },
+    {
+        "ID": "Giovanna Botelho-2012-BELLO SALTO-PE",
+        "Nome": "Giovanna Botelho",
+        "Ano de Nascimento": "2012",
+        "Clube": "BELLO SALTO-PE"
+    },
+    {
+        "ID": "Helena Zanoni-2012-JURERE-SC",
+        "Nome": "Helena Zanoni",
+        "Ano de Nascimento": "2012",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Anna Carolina Monteiro-2011-ADIEE-SC",
+        "Nome": "Anna Carolina Monteiro",
+        "Ano de Nascimento": "2011",
+        "Clube": "ADIEE-SC"
+    },
+    {
+        "ID": "Emanuelle Telles-2011-ADIEE-SC",
+        "Nome": "Emanuelle Telles",
+        "Ano de Nascimento": "2011",
+        "Clube": "ADIEE-SC"
+    },
+    {
+        "ID": "Laura Cantele-2011-ADIEE-SC",
+        "Nome": "Laura Cantele",
+        "Ano de Nascimento": "2011",
+        "Clube": "ADIEE-SC"
+    },
+    {
+        "ID": "Melissa Dulci-2011-ECP-SP",
+        "Nome": "Melissa Dulci",
+        "Ano de Nascimento": "2011",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Yasmin Mota-2011-ECP-SP",
+        "Nome": "Yasmin Mota",
+        "Ano de Nascimento": "2011",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Leticia Nozoe-2011-AGITH-SP",
+        "Nome": "Leticia Nozoe",
+        "Ano de Nascimento": "2011",
+        "Clube": "AGITH-SP"
+    },
+    {
+        "ID": "Manuella Gazizi-2012-AGITH-SP",
+        "Nome": "Manuella Gazizi",
+        "Ano de Nascimento": "2012",
+        "Clube": "AGITH-SP"
+    },
+    {
+        "ID": "Ana Paula Delgado-2012-CRF-RJ",
+        "Nome": "Ana Paula Delgado",
+        "Ano de Nascimento": "2012",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Julie Silva-2011-CRF-RJ",
+        "Nome": "Julie Silva",
+        "Ano de Nascimento": "2011",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Yasmin Felix-2012-CRF-RJ",
+        "Nome": "Yasmin Felix",
+        "Ano de Nascimento": "2012",
+        "Clube": "CRF-RJ"
+    },
+    {
+        "ID": "Yasmin Martins-2011-ADECO-SP",
+        "Nome": "Yasmin Martins",
+        "Ano de Nascimento": "2011",
+        "Clube": "ADECO-SP"
+    },
+    {
+        "ID": "Ana Clara Medeiros-2011-GNU-RS",
+        "Nome": "Ana Clara Medeiros",
+        "Ano de Nascimento": "2011",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Anita Schmitt-2011-GNU-RS",
+        "Nome": "Anita Schmitt",
+        "Ano de Nascimento": "2011",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Isadora Marques-2011-GNU-RS",
+        "Nome": "Isadora Marques",
+        "Ano de Nascimento": "2011",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Lara Vicente-2011-ACRORIT-SP",
+        "Nome": "Lara Vicente",
+        "Ano de Nascimento": "2011",
+        "Clube": "ACRORIT-SP"
+    },
+    {
+        "ID": "Bruna Carminatti-2012-ECP-SP",
+        "Nome": "Bruna Carminatti",
+        "Ano de Nascimento": "2012",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Helena Silva-2011-ECP-SP",
+        "Nome": "Helena Silva",
+        "Ano de Nascimento": "2011",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Manuella Costa-2011-ECP-SP",
+        "Nome": "Manuella Costa",
+        "Ano de Nascimento": "2011",
+        "Clube": "ECP-SP"
+    },
+    {
+        "ID": "Isabela Radtke-2010-SOGIPA-RS",
+        "Nome": "Isabela Radtke",
+        "Ano de Nascimento": "2010",
+        "Clube": "SOGIPA-RS"
+    },
+    {
+        "ID": "Sarah Goncalves-2009-JURERE-SC",
+        "Nome": "Sarah Goncalves",
+        "Ano de Nascimento": "2009",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Sarah Tanigawa-2010-JURERE-SC",
+        "Nome": "Sarah Tanigawa",
+        "Ano de Nascimento": "2010",
+        "Clube": "JURERE-SC"
+    },
+    {
+        "ID": "Julia Madeira-2010-AGAJO-SC",
+        "Nome": "Julia Madeira",
+        "Ano de Nascimento": "2010",
+        "Clube": "AGAJO-SC"
+    },
+    {
+        "ID": "Julia Vazquez-2009-GNU-RS",
+        "Nome": "Julia Vazquez",
+        "Ano de Nascimento": "2009",
+        "Clube": "GNU-RS"
+    },
+    {
+        "ID": "Manuela Ribeiro-2009-ACRORIT-SP",
+        "Nome": "Manuela Ribeiro",
+        "Ano de Nascimento": "2009",
+        "Clube": "ACRORIT-SP"
     }
 ]
